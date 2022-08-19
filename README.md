@@ -18,3 +18,10 @@ A list of my scientific publications
 ## 2019
 
 - *How to develop IoT products: a technology company case*. Diego de Castro Fettermann, Eduardo Alves Kloppel, Caroline Gobbo Sá Cavalcante, Marianne Costa Avalone, Lynceo Falavigna Braghirolli. **Product Management and Development** [Article](http://dx.doi.org/10.4322/pmd.2019.014)
+
+
+## 2015
+- *A STUDY ON OPEN BUILDING IMPLEMENTATION THROUGH APARTMENT ADAPTATION IN SAO PAULO, BRAZIL*. Marianne Costa Avalone, Jiyoung Jung, Hidekazu Fujimoto, Hideki Kobayashi. **Journal of Architecture and Planning (Transactions of AIJ)** [Article](http://dx.doi.org/10.3130/aija.80.1503)
+
+- *A STUDY ON ACTUAL CONDITION OF CUSTOMIZATION OF DWELLING ON THE APARTMENTS IN SOUTH KOREA*. Ji-Young Jung, Dong-Wook Lee, Marianne Costa Avalone,  Fumitake Meno, Hidekazu Fujimoto, Hideki Kobayashi. **Journal of Architecture and Planning (Transactions of AIJ)** [Article](http://dx.doi.org/10.3130/aija.80.239)
+
