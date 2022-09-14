@@ -3,7 +3,7 @@ A list of my scientific publications
 
 ## 2020 
 
-- *CAPTURING THE ENVIRONMENT: using photogammetry tp register the built environment for simulation* Olavo Avalone Neto, Marianne Costa Avalone. **Congreso SIGraDi 2020**. [Conference Paper](http://dx.doi.org/10.5151/sigradi2020-58)
+- *CAPTURING THE ENVIRONMENT: using photogrammetry tp register the built environment for simulation* Olavo Avalone Neto, Marianne Costa Avalone. **Congreso SIGraDi 2020**. [Conference Paper](http://dx.doi.org/10.5151/sigradi2020-58)
 
 
 - *Customisation demands in residential buildings in Brazil: an empirical-qualitative cluster analysis based on the Skeleton/Infill System* Marianne Costa Avalone, Diego de Castro Fettermann. **Ambiente Construído**. [Article](http://dx.doi.org/10.1590/s1678-86212020000200411)
