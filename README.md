@@ -25,3 +25,6 @@ A list of my scientific publications
 
 - *A STUDY ON ACTUAL CONDITION OF CUSTOMIZATION OF DWELLING ON THE APARTMENTS IN SOUTH KOREA*. Ji-Young Jung, Dong-Wook Lee, Marianne Costa Avalone,  Fumitake Meno, Hidekazu Fujimoto, Hideki Kobayashi. **Journal of Architecture and Planning (Transactions of AIJ)** [Article](http://dx.doi.org/10.3130/aija.80.239)
 
+
+## 2014
+- *SI System as a User-Oriented Housing Approach for Emerging Markets: A comparative study on adapted dwellings in Indonesia, South Korea and Brazil*. Marianne Costa Avalone, Jiyoung Jung, Hideki Kobayashi. **CIBW104 - Open Building Implementation - Durban 2014 Proceedings** [Article](http://www.irbnet.de/daten/iconda/CIB_DC33178.pdf)
